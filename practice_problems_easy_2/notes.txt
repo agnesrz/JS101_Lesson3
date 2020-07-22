@@ -1,0 +1,4 @@
+Easy 2, Question 2, Bonus 2. Review the solution to this problem.
+  Note that I asked about this question in the disucssion section.
+
+Easy 2, Question 6. Review the solutions containing reduce and spread syntax
